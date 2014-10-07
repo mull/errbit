@@ -66,6 +66,8 @@ gem 'rushover'
 gem 'httparty'
 # Flowdock
 gem 'flowdock'
+# Sqwiggle
+gem 'sqwiggle-ruby'
 
 # Authentication
 # ---------------------------------------
